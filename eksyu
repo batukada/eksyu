@@ -1,0 +1,911 @@
+#EXTM3U
+#EXTINF:-1,HRT 1 HD
+http://mototeamtv.tk:8000/luci/luci12345/7873
+#EXTINF:-1,HRT 1 HD (L2)
+http://mototeamtv.tk:8000/luci/luci12345/15298
+#EXTINF:-1,HRT 2
+http://mototeamtv.tk:8000/luci/luci12345/5797
+#EXTINF:-1,HRT 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/13473
+#EXTINF:-1,HRT 2 HD (L2)
+http://mototeamtv.tk:8000/luci/luci12345/10931
+#EXTINF:-1,HRT 3
+http://mototeamtv.tk:8000/luci/luci12345/5800
+#EXTINF:-1,HRT 4
+http://mototeamtv.tk:8000/luci/luci12345/13739
+#EXTINF:-1,HRT INT.
+http://mototeamtv.tk:8000/luci/luci12345/10695
+#EXTINF:-1,N1 HR
+http://mototeamtv.tk:8000/luci/luci12345/20293
+#EXTINF:-1,N1 HR L2
+http://mototeamtv.tk:8000/luci/luci12345/5799
+#EXTINF:-1,NOVA TV
+http://mototeamtv.tk:8000/luci/luci12345/4825
+#EXTINF:-1,NOVA TV HD (L2)
+http://mototeamtv.tk:8000/luci/luci12345/5479
+#EXTINF:-1,DOMA TV
+http://mototeamtv.tk:8000/luci/luci12345/6023
+#EXTINF:-1,DOMA TV HD (L2)
+http://mototeamtv.tk:8000/luci/luci12345/5481
+#EXTINF:-1,RTL
+http://mototeamtv.tk:8000/luci/luci12345/5482
+#EXTINF:-1,RTL HD
+http://mototeamtv.tk:8000/luci/luci12345/7040
+#EXTINF:-1,RTL 2
+http://mototeamtv.tk:8000/luci/luci12345/5483
+#EXTINF:-1,RTL CRIME
+http://mototeamtv.tk:8000/luci/luci12345/5484
+#EXTINF:-1,RTL LIVING
+http://mototeamtv.tk:8000/luci/luci12345/5798
+#EXTINF:-1,RTL PASSION
+http://mototeamtv.tk:8000/luci/luci12345/5465
+#EXTINF:-1,Z 1
+http://mototeamtv.tk:8000/luci/luci12345/5486
+#EXTINF:-1,OSIJECKA TV
+http://mototeamtv.tk:8000/luci/luci12345/5627
+#EXTINF:-1,SLAVONSKA TV
+http://mototeamtv.tk:8000/luci/luci12345/5801
+#EXTINF:-1,RTV BANOVINA
+http://mototeamtv.tk:8000/luci/luci12345/5819
+#EXTINF:-1,VINKOVACKA TV
+http://mototeamtv.tk:8000/luci/luci12345/6010
+#EXTINF:-1,SRCE TV
+http://mototeamtv.tk:8000/luci/luci12345/6926
+#EXTINF:-1,KLASIK TV
+http://mototeamtv.tk:8000/luci/luci12345/19744
+#EXTINF:-1,POLJOPRIVREDNA TV
+http://mototeamtv.tk:8000/luci/luci12345/10899
+#EXTINF:-1,LAUDATO TV
+http://mototeamtv.tk:8000/luci/luci12345/7877
+#EXTINF:-1,JABUKA TV
+http://mototeamtv.tk:8000/luci/luci12345/19885
+#EXTINF:-1,JADRAN TV
+http://mototeamtv.tk:8000/luci/luci12345/7883
+#EXTINF:-1,TV DUBROVNIK
+http://mototeamtv.tk:8000/luci/luci12345/20216
+#EXTINF:-1,GAME BAR
+http://mototeamtv.tk:8000/luci/luci12345/9733
+#EXTINF:-1,===== BOSNA I HERCEGOVINA =====
+http://mototeamtv.tk:8000/luci/luci12345/4731
+#EXTINF:-1,BHT 1
+http://mototeamtv.tk:8000/luci/luci12345/13898
+#EXTINF:-1,BHT 1 HD (L2)
+http://mototeamtv.tk:8000/luci/luci12345/19697
+#EXTINF:-1,FTV
+http://mototeamtv.tk:8000/luci/luci12345/13899
+#EXTINF:-1,TK
+http://mototeamtv.tk:8000/luci/luci12345/13900
+#EXTINF:-1,OBN
+http://mototeamtv.tk:8000/luci/luci12345/13901
+#EXTINF:-1,OBN L2
+http://mototeamtv.tk:8000/luci/luci12345/20330
+#EXTINF:-1,FACE HD
+http://mototeamtv.tk:8000/luci/luci12345/13902
+#EXTINF:-1,O KANAL
+http://mototeamtv.tk:8000/luci/luci12345/13903
+#EXTINF:-1,NOVA BH
+http://mototeamtv.tk:8000/luci/luci12345/13904
+#EXTINF:-1,NOVA BH L2
+http://mototeamtv.tk:8000/luci/luci12345/14621
+#EXTINF:-1,NOVA M
+http://mototeamtv.tk:8000/luci/luci12345/13905
+#EXTINF:-1,HAYAT HD
+http://mototeamtv.tk:8000/luci/luci12345/13906
+#EXTINF:-1,HAYAT PLUS
+http://mototeamtv.tk:8000/luci/luci12345/13907
+#EXTINF:-1,BN HD
+http://mototeamtv.tk:8000/luci/luci12345/13912
+#EXTINF:-1,N1 BIH
+http://mototeamtv.tk:8000/luci/luci12345/13909
+#EXTINF:-1,N1 HD BIH
+http://mototeamtv.tk:8000/luci/luci12345/20295
+#EXTINF:-1,RTRS
+http://mototeamtv.tk:8000/luci/luci12345/13910
+#EXTINF:-1,RTRS PLUS
+http://mototeamtv.tk:8000/luci/luci12345/13911
+#EXTINF:-1,AL JAZZERA BALKANS HD
+http://mototeamtv.tk:8000/luci/luci12345/13908
+#EXTINF:-1,K3 TV
+http://mototeamtv.tk:8000/luci/luci12345/13914
+#EXTINF:-1,ATV BANJA LUKA
+http://mototeamtv.tk:8000/luci/luci12345/13913
+#EXTINF:-1,IZVORNA TV
+http://mototeamtv.tk:8000/luci/luci12345/13915
+#EXTINF:-1,RTV CAZIN
+http://mototeamtv.tk:8000/luci/luci12345/20347
+#EXTINF:-1,RTV SANA
+http://mototeamtv.tk:8000/luci/luci12345/20349
+#EXTINF:-1,RTV VISOKO HD
+http://mototeamtv.tk:8000/luci/luci12345/20348
+#EXTINF:-1,MTV IGMAN HD
+http://mototeamtv.tk:8000/luci/luci12345/13916
+#EXTINF:-1,CITY TV
+http://mototeamtv.tk:8000/luci/luci12345/13918
+#EXTINF:-1,TV SARAJEVO
+http://mototeamtv.tk:8000/luci/luci12345/20136
+#EXTINF:-1,TV SLON EXTRA
+http://mototeamtv.tk:8000/luci/luci12345/13919
+#EXTINF:-1,TV ZENICA
+http://mototeamtv.tk:8000/luci/luci12345/13920
+#EXTINF:-1,HEMA TV
+http://mototeamtv.tk:8000/luci/luci12345/13921
+#EXTINF:-1,HIT BRCKO TV
+http://mototeamtv.tk:8000/luci/luci12345/13922
+#EXTINF:-1,NTV 101 HD
+http://mototeamtv.tk:8000/luci/luci12345/13923
+#EXTINF:-1,NTV IC KAKANJ
+http://mototeamtv.tk:8000/luci/luci12345/19874
+#EXTINF:-1,USK HD
+http://mototeamtv.tk:8000/luci/luci12345/13924
+#EXTINF:-1,BOSANSKO POSAVSKA TV HD
+http://mototeamtv.tk:8000/luci/luci12345/13925
+#EXTINF:-1,POSAVINA TV
+http://mototeamtv.tk:8000/luci/luci12345/20129
+#EXTINF:-1,PODRINJE
+http://mototeamtv.tk:8000/luci/luci12345/20138
+#EXTINF:-1,GLAS DRINE
+http://mototeamtv.tk:8000/luci/luci12345/13926
+#EXTINF:-1,RTV HERCEG BOSNE
+http://mototeamtv.tk:8000/luci/luci12345/17866
+#EXTINF:-1,MEKKA TV
+http://mototeamtv.tk:8000/luci/luci12345/13927
+#EXTINF:-1,QOURAN BOSNA TV
+http://mototeamtv.tk:8000/luci/luci12345/13928
+#EXTINF:-1,TV 5 ISLAM
+http://mototeamtv.tk:8000/luci/luci12345/13929
+#EXTINF:-1,===== SRBIJA =====
+http://mototeamtv.tk:8000/luci/luci12345/4776
+#EXTINF:-1,RTS 1
+http://mototeamtv.tk:8000/luci/luci12345/14096
+#EXTINF:-1,RTS HD L2
+http://mototeamtv.tk:8000/luci/luci12345/18304
+#EXTINF:-1,RTS 2 FHD
+http://mototeamtv.tk:8000/luci/luci12345/14097
+#EXTINF:-1,RTS 3
+http://mototeamtv.tk:8000/luci/luci12345/14098
+#EXTINF:-1,RTS SVET
+http://mototeamtv.tk:8000/luci/luci12345/14099
+#EXTINF:-1,RTS KOLO
+http://mototeamtv.tk:8000/luci/luci12345/14100
+#EXTINF:-1,RTS ZIVOT
+http://mototeamtv.tk:8000/luci/luci12345/14101
+#EXTINF:-1,RTS DRAMA FHD
+http://mototeamtv.tk:8000/luci/luci12345/14102
+#EXTINF:-1,PRVA TV
+http://mototeamtv.tk:8000/luci/luci12345/14103
+#EXTINF:-1,PRVA HD L2
+http://mototeamtv.tk:8000/luci/luci12345/19696
+#EXTINF:-1,PRVA PLUS
+http://mototeamtv.tk:8000/luci/luci12345/14104
+#EXTINF:-1,PRVA MAX
+http://mototeamtv.tk:8000/luci/luci12345/14105
+#EXTINF:-1,PRVA KICK
+http://mototeamtv.tk:8000/luci/luci12345/14106
+#EXTINF:-1,PALMA PLUS
+http://mototeamtv.tk:8000/luci/luci12345/14107
+#EXTINF:-1,NOVA S L2
+http://mototeamtv.tk:8000/luci/luci12345/14109
+#EXTINF:-1,NOVA S
+http://mototeamtv.tk:8000/luci/luci12345/13741
+#EXTINF:-1,NASA TV
+http://mototeamtv.tk:8000/luci/luci12345/14110
+#EXTINF:-1,RTV NOVI PAZAR
+http://mototeamtv.tk:8000/luci/luci12345/20135
+#EXTINF:-1,GEM LAZAREVAC
+http://mototeamtv.tk:8000/luci/luci12345/14113
+#EXTINF:-1,YU EKO HD
+http://mototeamtv.tk:8000/luci/luci12345/14114
+#EXTINF:-1,RTV MARS
+http://mototeamtv.tk:8000/luci/luci12345/14115
+#EXTINF:-1,RTV BOR
+http://mototeamtv.tk:8000/luci/luci12345/14117
+#EXTINF:-1,O2 TV
+http://mototeamtv.tk:8000/luci/luci12345/14118
+#EXTINF:-1,HAPPY
+http://mototeamtv.tk:8000/luci/luci12345/14119
+#EXTINF:-1,PRVA WORLD
+http://mototeamtv.tk:8000/luci/luci12345/14120
+#EXTINF:-1,YU PLANET
+http://mototeamtv.tk:8000/luci/luci12345/14121
+#EXTINF:-1,STUDIO B
+http://mototeamtv.tk:8000/luci/luci12345/14122
+#EXTINF:-1,SOS
+http://mototeamtv.tk:8000/luci/luci12345/18306
+#EXTINF:-1,TV DUGA PLUS
+http://mototeamtv.tk:8000/luci/luci12345/14108
+#EXTINF:-1,JEFIMIJA HD
+http://mototeamtv.tk:8000/luci/luci12345/14124
+#EXTINF:-1,TV PULS
+http://mototeamtv.tk:8000/luci/luci12345/14125
+#EXTINF:-1,BK TV
+http://mototeamtv.tk:8000/luci/luci12345/14129
+#EXTINF:-1,MELOS
+http://mototeamtv.tk:8000/luci/luci12345/14130
+#EXTINF:-1,SANDZAK TV
+http://mototeamtv.tk:8000/luci/luci12345/14931
+#EXTINF:-1,SANDZACKA TV MREZA
+http://mototeamtv.tk:8000/luci/luci12345/18305
+#EXTINF:-1,RTV VOJVODINA 1
+http://mototeamtv.tk:8000/luci/luci12345/14622
+#EXTINF:-1,RTV VOJVODINA 2
+http://mototeamtv.tk:8000/luci/luci12345/14623
+#EXTINF:-1,N1 RS
+http://mototeamtv.tk:8000/luci/luci12345/15297
+#EXTINF:-1,N1 RS L2
+http://mototeamtv.tk:8000/luci/luci12345/20294
+#EXTINF:-1,HRAM TV
+http://mototeamtv.tk:8000/luci/luci12345/18800
+#EXTINF:-1,TV 4S
+http://mototeamtv.tk:8000/luci/luci12345/20331
+#EXTINF:-1,TV LESKOVAC
+http://mototeamtv.tk:8000/luci/luci12345/20304
+#EXTINF:-1,BELLE AMIE HD
+http://mototeamtv.tk:8000/luci/luci12345/20305
+#EXTINF:-1,TV K::CN 1
+http://mototeamtv.tk:8000/luci/luci12345/20306
+#EXTINF:-1,TV K::CN Music 2
+http://mototeamtv.tk:8000/luci/luci12345/20307
+#EXTINF:-1,TV K::CN Svet Plus 3
+http://mototeamtv.tk:8000/luci/luci12345/20308
+#EXTINF:-1,PAROVI LIVE
+http://mototeamtv.tk:8000/luci/luci12345/15391
+#EXTINF:-1,ZADRUGA 24 H
+http://mototeamtv.tk:8000/luci/luci12345/14128
+#EXTINF:-1,HAPPY PAROVI 24/7
+http://mototeamtv.tk:8000/luci/luci12345/18307
+#EXTINF:-1,TESLA VISION
+http://mototeamtv.tk:8000/luci/luci12345/20227
+#EXTINF:-1,===== CRNA GORA =====
+http://mototeamtv.tk:8000/luci/luci12345/6117
+#EXTINF:-1,RTV CG 1 (CG)
+http://mototeamtv.tk:8000/luci/luci12345/14207
+#EXTINF:-1,RTCG 2 (CG)
+http://mototeamtv.tk:8000/luci/luci12345/14208
+#EXTINF:-1,RTCG (SAT) (CG)
+http://mototeamtv.tk:8000/luci/luci12345/14209
+#EXTINF:-1,NOVA M (CG)
+http://mototeamtv.tk:8000/luci/luci12345/14210
+#EXTINF:-1,TV VIJESTI (CG)
+http://mototeamtv.tk:8000/luci/luci12345/15233
+#EXTINF:-1,TV 777 (CG)
+http://mototeamtv.tk:8000/luci/luci12345/18302
+#EXTINF:-1,RTV ROZAJE (CG)
+http://mototeamtv.tk:8000/luci/luci12345/19255
+#EXTINF:-1,===== MAKEDONIJA =====
+http://mototeamtv.tk:8000/luci/luci12345/5367
+#EXTINF:-1,SITEL HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/4816
+#EXTINF:-1,SITEL HD (MK)L2
+http://mototeamtv.tk:8000/luci/luci12345/10928
+#EXTINF:-1,KANAL 5 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5848
+#EXTINF:-1,Kanal 5 L2 (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5849
+#EXTINF:-1,TELMA HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5851
+#EXTINF:-1,ALFA (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5396
+#EXTINF:-1,24 VESTI HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5850
+#EXTINF:-1,MPT 1 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5397
+#EXTINF:-1,MPT 2 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5852
+#EXTINF:-1,MPT 3 SOBRANISKI KANAL (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5869
+#EXTINF:-1,SUTEL (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20301
+#EXTINF:-1,VIZIJA TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5755
+#EXTINF:-1,TERA BITOLA HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6469
+#EXTINF:-1,KTV KAVADARCI (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6149
+#EXTINF:-1,MTM SKOPJE (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5418
+#EXTINF:-1,TV PLUS (MK)
+http://mototeamtv.tk:8000/luci/luci12345/12109
+#EXTINF:-1,NASA TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/7804
+#EXTINF:-1,NOVA 12 TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11326
+#EXTINF:-1,KANAL 8 (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11345
+#EXTINF:-1,IRIS TV STIP (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6779
+#EXTINF:-1,TV SONCE (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5802
+#EXTINF:-1,SKY FOLK (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6470
+#EXTINF:-1,STOP TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6778
+#EXTINF:-1,FEN TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6950
+#EXTINF:-1,IN TV HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/7807
+#EXTINF:-1,FOLK CLUB TV HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/10834
+#EXTINF:-1,HUGO TV 1 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/4826
+#EXTINF:-1,HUGO TV 2 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/4734
+#EXTINF:-1,HUGO TV 3 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6945
+#EXTINF:-1,TV 1000 (MK)
+http://mototeamtv.tk:8000/luci/luci12345/10917
+#EXTINF:-1,FOX (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11402
+#EXTINF:-1,FOX MOVIES (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11040
+#EXTINF:-1,FOX CRIME (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11055
+#EXTINF:-1,FOX LIFE (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11396
+#EXTINF:-1,FILMBOX PLUS (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20310
+#EXTINF:-1,CINEPLEX HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20309
+#EXTINF:-1,M1 FILM (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20473
+#EXTINF:-1,M1 GOLD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20345
+#EXTINF:-1,CINESTAR PREMIERE 1 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20222
+#EXTINF:-1,CINESTAR PREMIERE 2 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20223
+#EXTINF:-1,HBO (MK)
+http://mototeamtv.tk:8000/luci/luci12345/12173
+#EXTINF:-1,HBO 2 (MK)
+http://mototeamtv.tk:8000/luci/luci12345/12170
+#EXTINF:-1,HBO 3 (MK)
+http://mototeamtv.tk:8000/luci/luci12345/12168
+#EXTINF:-1,VIASAT HISTORY (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11344
+#EXTINF:-1,VIASAT EXPLORE (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11346
+#EXTINF:-1,NATIONAL GEOGRAPHIC (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11349
+#EXTINF:-1,ANIMAL PLANET (MK)
+http://mototeamtv.tk:8000/luci/luci12345/11369
+#EXTINF:-1,AL SAT M (MK)
+http://mototeamtv.tk:8000/luci/luci12345/5931
+#EXTINF:-1,RTV 21 HD (MK)
+http://mototeamtv.tk:8000/luci/luci12345/10624
+#EXTINF:-1,ERA TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/7033
+#EXTINF:-1,USKANA (MK)
+http://mototeamtv.tk:8000/luci/luci12345/7823
+#EXTINF:-1,GOSTIVAR TV (MK)
+http://mototeamtv.tk:8000/luci/luci12345/6219
+#EXTINF:-1,TV GLOBI (MK)
+http://mototeamtv.tk:8000/luci/luci12345/20224
+#EXTINF:-1,===== SLOVENIJA =====
+http://mototeamtv.tk:8000/luci/luci12345/5643
+#EXTINF:-1,SLO 1 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14152
+#EXTINF:-1,SLO 2 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14153
+#EXTINF:-1,SLO 3 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14154
+#EXTINF:-1,KANAL A HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14175
+#EXTINF:-1,POP TV (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14158
+#EXTINF:-1,POP BRIO (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20170
+#EXTINF:-1,POP KINO HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14159
+#EXTINF:-1,POP OTO (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20171
+#EXTINF:-1,HBO 1 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14155
+#EXTINF:-1,HBO 2 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14156
+#EXTINF:-1,HBO 3 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14157
+#EXTINF:-1,CINESTAR PREMIERE 1 (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14163
+#EXTINF:-1,CINESTAR PREMIERE 2 (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14164
+#EXTINF:-1,CINESTAR COMEDY HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20176
+#EXTINF:-1,EPIC DRAMA (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14171
+#EXTINF:-1,FOX (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20180
+#EXTINF:-1,FOX MOVIES (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14172
+#EXTINF:-1,FOX MOVIES HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20182
+#EXTINF:-1,FOX CRIME (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14174
+#EXTINF:-1,FOX LIFE (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20181
+#EXTINF:-1,TV 1000 (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14181
+#EXTINF:-1,EXODUS (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14150
+#EXTINF:-1,PLANET HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14161
+#EXTINF:-1,PLANET 2 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14143
+#EXTINF:-1,PLANET PLUS HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20203
+#EXTINF:-1,AMC (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20177
+#EXTINF:-1,AXN (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20178
+#EXTINF:-1,DIVA (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20179
+#EXTINF:-1,SCI-FI HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20185
+#EXTINF:-1,HISTORY CHANNEL (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20183
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20184
+#EXTINF:-1,VIASAT HISTORY (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20187
+#EXTINF:-1,TLC (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20186
+#EXTINF:-1,DISCOVERY CHANNEL (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20195
+#EXTINF:-1,INVESTIGATION DISCOVERY HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20188
+#EXTINF:-1,FINE LIVING HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20196
+#EXTINF:-1,BBC EARTH HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20190
+#EXTINF:-1,CBS REALITY (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20191
+#EXTINF:-1,DA VINCI LEARNING (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20193
+#EXTINF:-1,ANIMAL PLANET HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20189
+#EXTINF:-1,TV3 MEDIAS HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20175
+#EXTINF:-1,TV KOPER (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20172
+#EXTINF:-1,TV MARIBOR (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20173
+#EXTINF:-1,MMC INFO KANAL (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20174
+#EXTINF:-1,TV CELJE (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20192
+#EXTINF:-1,VAS KANAL (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20194
+#EXTINF:-1,PETELIN (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20202
+#EXTINF:-1,TV VESELJAK (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20197
+#EXTINF:-1,GALEJA (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20198
+#EXTINF:-1,GOLD TV (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20199
+#EXTINF:-1,NOVA 24 (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20201
+#EXTINF:-1,MINIMAX (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20200
+#EXTINF:-1,NICKELODEON (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/14179
+#EXTINF:-1,VOYO (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20204
+#EXTINF:-1,SPORT TV 1 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20205
+#EXTINF:-1,SPORT TV 2 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20206
+#EXTINF:-1,SPORT TV 3 HD (SLO)
+http://mototeamtv.tk:8000/luci/luci12345/20207
+#EXTINF:-1,===== PINK =====
+http://mototeamtv.tk:8000/luci/luci12345/5135
+#EXTINF:-1,PINK
+http://mototeamtv.tk:8000/luci/luci12345/5490
+#EXTINF:-1,PINK (L2)
+http://mototeamtv.tk:8000/luci/luci12345/6392
+#EXTINF:-1,PINK 2
+http://mototeamtv.tk:8000/luci/luci12345/5493
+#EXTINF:-1,PINK 3 INFO
+http://mototeamtv.tk:8000/luci/luci12345/5494
+#EXTINF:-1,PINK BH
+http://mototeamtv.tk:8000/luci/luci12345/7633
+#EXTINF:-1,PINK M
+http://mototeamtv.tk:8000/luci/luci12345/12166
+#EXTINF:-1,PINK PLUS
+http://mototeamtv.tk:8000/luci/luci12345/5507
+#EXTINF:-1,PINK EXTRA
+http://mototeamtv.tk:8000/luci/luci12345/6525
+#EXTINF:-1,PINK FILM
+http://mototeamtv.tk:8000/luci/luci12345/5847
+#EXTINF:-1,PINK CLASSIC
+http://mototeamtv.tk:8000/luci/luci12345/5635
+#EXTINF:-1,PINK MOVIES
+http://mototeamtv.tk:8000/luci/luci12345/6540
+#EXTINF:-1,PINK PREMIUM
+http://mototeamtv.tk:8000/luci/luci12345/5498
+#EXTINF:-1,PINK ACTION
+http://mototeamtv.tk:8000/luci/luci12345/5495
+#EXTINF:-1,PINK WESTERN
+http://mototeamtv.tk:8000/luci/luci12345/5503
+#EXTINF:-1,PINK THRILLER
+http://mototeamtv.tk:8000/luci/luci12345/5502
+#EXTINF:-1,PINK CRIME AND MISTERY
+http://mototeamtv.tk:8000/luci/luci12345/5509
+#EXTINF:-1,PINK SCI FI AND FANTASY
+http://mototeamtv.tk:8000/luci/luci12345/5500
+#EXTINF:-1,PINK HORROR
+http://mototeamtv.tk:8000/luci/luci12345/5497
+#EXTINF:-1,PINK WORLD CINEMA
+http://mototeamtv.tk:8000/luci/luci12345/6498
+#EXTINF:-1,PINK COMEDY
+http://mototeamtv.tk:8000/luci/luci12345/5496
+#EXTINF:-1,PINK ROMANCE
+http://mototeamtv.tk:8000/luci/luci12345/5506
+#EXTINF:-1,PINK FAMILY
+http://mototeamtv.tk:8000/luci/luci12345/5374
+#EXTINF:-1,PINK SERIJE
+http://mototeamtv.tk:8000/luci/luci12345/5501
+#EXTINF:-1,PINK WORLD
+http://mototeamtv.tk:8000/luci/luci12345/5789
+#EXTINF:-1,PINK ZABAVA
+http://mototeamtv.tk:8000/luci/luci12345/5504
+#EXTINF:-1,PINK SOAP
+http://mototeamtv.tk:8000/luci/luci12345/5505
+#EXTINF:-1,PINK REALITY
+http://mototeamtv.tk:8000/luci/luci12345/5499
+#EXTINF:-1,PINK KUVAR
+http://mototeamtv.tk:8000/luci/luci12345/5508
+#EXTINF:-1,PINK PEDIA
+http://mototeamtv.tk:8000/luci/luci12345/5790
+#EXTINF:-1,PINK LOL
+http://mototeamtv.tk:8000/luci/luci12345/6544
+#EXTINF:-1,PINK HAHA
+http://mototeamtv.tk:8000/luci/luci12345/6545
+#EXTINF:-1,PINK STYLE
+http://mototeamtv.tk:8000/luci/luci12345/6760
+#EXTINF:-1,PINK STAR
+http://mototeamtv.tk:8000/luci/luci12345/17867
+#EXTINF:-1,PINK FASHION
+http://mototeamtv.tk:8000/luci/luci12345/4868
+#EXTINF:-1,PINK ZADRUGA 24/7 TEST
+http://mototeamtv.tk:8000/luci/luci12345/7597
+#EXTINF:-1,PINK ZADRUGA 1 24/7
+http://mototeamtv.tk:8000/luci/luci12345/18296
+#EXTINF:-1,PINK ZADRUGA 2 24/7
+http://mototeamtv.tk:8000/luci/luci12345/18297
+#EXTINF:-1,PINK ZADRUGA 3 24/7
+http://mototeamtv.tk:8000/luci/luci12345/18298
+#EXTINF:-1,PINK ZADRUGA 4 24/7
+http://mototeamtv.tk:8000/luci/luci12345/18299
+#EXTINF:-1,===== FILM (prevod) =====
+http://mototeamtv.tk:8000/luci/luci12345/4777
+#EXTINF:-1,HBO HD
+http://mototeamtv.tk:8000/luci/luci12345/13747
+#EXTINF:-1,HBO 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/13748
+#EXTINF:-1,HBO 3 HD
+http://mototeamtv.tk:8000/luci/luci12345/13749
+#EXTINF:-1,FOX HD
+http://mototeamtv.tk:8000/luci/luci12345/13750
+#EXTINF:-1,FOX MOVIES
+http://mototeamtv.tk:8000/luci/luci12345/13751
+#EXTINF:-1,FOX LIFE
+http://mototeamtv.tk:8000/luci/luci12345/13752
+#EXTINF:-1,FOX CRIME
+http://mototeamtv.tk:8000/luci/luci12345/13753
+#EXTINF:-1,CINESTAR (HR)
+http://mototeamtv.tk:8000/luci/luci12345/13754
+#EXTINF:-1,CINESTAR ACTION (HR)
+http://mototeamtv.tk:8000/luci/luci12345/13755
+#EXTINF:-1,CINESTAR FANTASY
+http://mototeamtv.tk:8000/luci/luci12345/19351
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://mototeamtv.tk:8000/luci/luci12345/13756
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/13757
+#EXTINF:-1,CINEMAX 1 HD
+http://mototeamtv.tk:8000/luci/luci12345/13758
+#EXTINF:-1,CINEMAX 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/13759
+#EXTINF:-1,TV 1000
+http://mototeamtv.tk:8000/luci/luci12345/13761
+#EXTINF:-1,AXN ADRIA
+http://mototeamtv.tk:8000/luci/luci12345/13762
+#EXTINF:-1,AXN SPIN
+http://mototeamtv.tk:8000/luci/luci12345/17891
+#EXTINF:-1,SUPER STAR TV
+http://mototeamtv.tk:8000/luci/luci12345/18303
+#EXTINF:-1,KINO TV HD
+http://mototeamtv.tk:8000/luci/luci12345/13764
+#EXTINF:-1,M1 FILM
+http://mototeamtv.tk:8000/luci/luci12345/13765
+#EXTINF:-1,M1 GOLD
+http://mototeamtv.tk:8000/luci/luci12345/20226
+#EXTINF:-1,AMC HD
+http://mototeamtv.tk:8000/luci/luci12345/14611
+#EXTINF:-1,DIVA
+http://mototeamtv.tk:8000/luci/luci12345/17892
+#EXTINF:-1,FILM BOX PLUS
+http://mototeamtv.tk:8000/luci/luci12345/17876
+#EXTINF:-1,FILM BOX EXTRA HD
+http://mototeamtv.tk:8000/luci/luci12345/17890
+#EXTINF:-1,EPIC DRAMA
+http://mototeamtv.tk:8000/luci/luci12345/17877
+#EXTINF:-1,SCI-FI
+http://mototeamtv.tk:8000/luci/luci12345/17888
+#EXTINF:-1,TDC HD
+http://mototeamtv.tk:8000/luci/luci12345/20370
+#EXTINF:-1,M MOVIES SMILE FHD 1 (HR)
+http://mototeamtv.tk:8000/luci/luci12345/17872
+#EXTINF:-1,M MOVIES ALL STARS FHD 1 (HR)
+http://mototeamtv.tk:8000/luci/luci12345/17875
+#EXTINF:-1,MAX FILMS 1 HD
+http://mototeamtv.tk:8000/luci/luci12345/18382
+#EXTINF:-1,MAX FILMS 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/18383
+#EXTINF:-1,MAXCRO SELECT 1 HD
+http://mototeamtv.tk:8000/luci/luci12345/13778
+#EXTINF:-1,MAXCRO SELECT 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/13779
+#EXTINF:-1,MAXCRO SELECT 3 HD
+http://mototeamtv.tk:8000/luci/luci12345/13780
+#EXTINF:-1,MAXCRO SELECT 4 HD
+http://mototeamtv.tk:8000/luci/luci12345/13781
+#EXTINF:-1,MAXCRO SELECT 5 HD
+http://mototeamtv.tk:8000/luci/luci12345/13782
+#EXTINF:-1,MAXCRO SELECT 6 HD
+http://mototeamtv.tk:8000/luci/luci12345/13783
+#EXTINF:-1,MAXCRO SELECT 7 HD
+http://mototeamtv.tk:8000/luci/luci12345/13784
+#EXTINF:-1,MAXCRO SELECT 8 HD
+http://mototeamtv.tk:8000/luci/luci12345/13785
+#EXTINF:-1,MAXCRO SELECT 9 HD
+http://mototeamtv.tk:8000/luci/luci12345/13786
+#EXTINF:-1,MAXCRO SELECT 10 HD
+http://mototeamtv.tk:8000/luci/luci12345/17853
+#EXTINF:-1,MAXCRO SELECT 11 HD
+http://mototeamtv.tk:8000/luci/luci12345/17854
+#EXTINF:-1,MAXCRO SELECT GOLD HD
+http://mototeamtv.tk:8000/luci/luci12345/13787
+#EXTINF:-1,MAXCRO SELECT PREMIUM HD
+http://mototeamtv.tk:8000/luci/luci12345/13788
+#EXTINF:-1,MAXCRO SELECT KINO HD
+http://mototeamtv.tk:8000/luci/luci12345/13789
+#EXTINF:-1,MAXCRO SELECT (HOROR) HD
+http://mototeamtv.tk:8000/luci/luci12345/17874
+#EXTINF:-1,MAXCRO SELECT KIDS HD
+http://mototeamtv.tk:8000/luci/luci12345/17855
+#EXTINF:-1,MAXCRO SELECT KIDS 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/17856
+#EXTINF:-1,===== DOKUMENTARNI =====
+http://mototeamtv.tk:8000/luci/luci12345/5293
+#EXTINF:-1,ANIMAL PLANET
+http://mototeamtv.tk:8000/luci/luci12345/14185
+#EXTINF:-1,CBS REALITY
+http://mototeamtv.tk:8000/luci/luci12345/17870
+#EXTINF:-1,DISCOVERY CHANEL
+http://mototeamtv.tk:8000/luci/luci12345/14187
+#EXTINF:-1,DISCOVERY ID
+http://mototeamtv.tk:8000/luci/luci12345/20014
+#EXTINF:-1,DISCOVERY SCI
+http://mototeamtv.tk:8000/luci/luci12345/14186
+#EXTINF:-1,DISCOVERY SCI HD
+http://mototeamtv.tk:8000/luci/luci12345/14189
+#EXTINF:-1,DISCOVERY TURBO
+http://mototeamtv.tk:8000/luci/luci12345/17878
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://mototeamtv.tk:8000/luci/luci12345/20208
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://mototeamtv.tk:8000/luci/luci12345/14192
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://mototeamtv.tk:8000/luci/luci12345/14193
+#EXTINF:-1,HISTORY
+http://mototeamtv.tk:8000/luci/luci12345/14196
+#EXTINF:-1,HISTORY 2
+http://mototeamtv.tk:8000/luci/luci12345/14195
+#EXTINF:-1,TRAVEL
+http://mototeamtv.tk:8000/luci/luci12345/14198
+#EXTINF:-1,DOKU TV
+http://mototeamtv.tk:8000/luci/luci12345/19669
+#EXTINF:-1,VIASAT HISTORY
+http://mototeamtv.tk:8000/luci/luci12345/17330
+#EXTINF:-1,VIASAT NATURE
+http://mototeamtv.tk:8000/luci/luci12345/14190
+#EXTINF:-1,VIASAT  EXPLORE
+http://mototeamtv.tk:8000/luci/luci12345/14200
+#EXTINF:-1,FINE LIVING
+http://mototeamtv.tk:8000/luci/luci12345/14127
+#EXTINF:-1,TLC
+http://mototeamtv.tk:8000/luci/luci12345/18308
+#EXTINF:-1,E!
+http://mototeamtv.tk:8000/luci/luci12345/15300
+#EXTINF:-1,FOOD NETWORK
+http://mototeamtv.tk:8000/luci/luci12345/20019
+#EXTINF:-1,FOOD NETWORK INTERNATIONAL
+http://mototeamtv.tk:8000/luci/luci12345/19860
+#EXTINF:-1,24 KITCHEN
+http://mototeamtv.tk:8000/luci/luci12345/15709
+#EXTINF:-1,BBC EARTH HD
+http://mototeamtv.tk:8000/luci/luci12345/14202
+#EXTINF:-1,LOV I RIBOLOV
+http://mototeamtv.tk:8000/luci/luci12345/18810
+#EXTINF:-1,FISHING HUNTING HD
+http://mototeamtv.tk:8000/luci/luci12345/18812
+#EXTINF:-1,===== DJECJI =====
+http://mototeamtv.tk:8000/luci/luci12345/5368
+#EXTINF:-1,NICK JUNIOR (HR)
+http://mototeamtv.tk:8000/luci/luci12345/4759
+#EXTINF:-1,NICKELODEON (HR)
+http://mototeamtv.tk:8000/luci/luci12345/5788
+#EXTINF:-1,NICKELODEON (SR)
+http://mototeamtv.tk:8000/luci/luci12345/10657
+#EXTINF:-1,MINI TV
+http://mototeamtv.tk:8000/luci/luci12345/5887
+#EXTINF:-1,MINIMAX
+http://mototeamtv.tk:8000/luci/luci12345/6493
+#EXTINF:-1,BABY TV
+http://mototeamtv.tk:8000/luci/luci12345/4848
+#EXTINF:-1,JIMJAM TV
+http://mototeamtv.tk:8000/luci/luci12345/10659
+#EXTINF:-1,DUCK TV
+http://mototeamtv.tk:8000/luci/luci12345/10660
+#EXTINF:-1,DISNEY CHANNEL
+http://mototeamtv.tk:8000/luci/luci12345/11317
+#EXTINF:-1,MASA I MEDO TV (HR)
+http://mototeamtv.tk:8000/luci/luci12345/11303
+#EXTINF:-1,TNT TV (HR)
+http://mototeamtv.tk:8000/luci/luci12345/11347
+#EXTINF:-1,PIKABOO TV
+http://mototeamtv.tk:8000/luci/luci12345/5523
+#EXTINF:-1,HAYATOVCI
+http://mototeamtv.tk:8000/luci/luci12345/5605
+#EXTINF:-1,PINK SUPER KIDS
+http://mototeamtv.tk:8000/luci/luci12345/5382
+#EXTINF:-1,PINK KIDS
+http://mototeamtv.tk:8000/luci/luci12345/6021
+#EXTINF:-1,TOM & JERRY TV HD
+http://mototeamtv.tk:8000/luci/luci12345/6492
+#EXTINF:-1,DISNEY JUNIOR
+http://mototeamtv.tk:8000/luci/luci12345/10621
+#EXTINF:-1,VAVOOM
+http://mototeamtv.tk:8000/luci/luci12345/6099
+#EXTINF:-1,RTL KOCKICA
+http://mototeamtv.tk:8000/luci/luci12345/5606
+#EXTINF:-1,DISNEY CHANNEL HD (DE)
+http://mototeamtv.tk:8000/luci/luci12345/4784
+#EXTINF:-1,DISNEY XD (DE)
+http://mototeamtv.tk:8000/luci/luci12345/4829
+#EXTINF:-1,TOGGO PLUS (DE)
+http://mototeamtv.tk:8000/luci/luci12345/4889
+#EXTINF:-1,KIKA HD (DE)
+http://mototeamtv.tk:8000/luci/luci12345/5698
+#EXTINF:-1,SUPER RTL HD (DE)
+http://mototeamtv.tk:8000/luci/luci12345/5959
+#EXTINF:-1,BOOMERANG (DE)
+http://mototeamtv.tk:8000/luci/luci12345/6769
+#EXTINF:-1,NICKELODEON (DE)
+http://mototeamtv.tk:8000/luci/luci12345/7045
+#EXTINF:-1,CARTOON NETWORK (DE)
+http://mototeamtv.tk:8000/luci/luci12345/7659
+#EXTINF:-1,GINX
+http://mototeamtv.tk:8000/luci/luci12345/5914
+#EXTINF:-1,NICK JUNIOR (UK)
+http://mototeamtv.tk:8000/luci/luci12345/5917
+#EXTINF:-1,NICK JUNIOR +1 (UK)
+http://mototeamtv.tk:8000/luci/luci12345/7806
+#EXTINF:-1,CARTOON NETWORK (UK)
+http://mototeamtv.tk:8000/luci/luci12345/7875
+#EXTINF:-1,NICKTOONS (UK)
+http://mototeamtv.tk:8000/luci/luci12345/9741
+#EXTINF:-1,DISNEY CHANNEL (FR)
+http://mototeamtv.tk:8000/luci/luci12345/10742
+#EXTINF:-1,BOOMERANG (HU)
+http://mototeamtv.tk:8000/luci/luci12345/5975
+#EXTINF:-1,ANIMASYON 2 HD
+http://mototeamtv.tk:8000/luci/luci12345/6472
+#EXTINF:-1,===== MUZIKA =====
+http://mototeamtv.tk:8000/luci/luci12345/5369
+#EXTINF:-1,MTV ADRIA
+http://mototeamtv.tk:8000/luci/luci12345/5925
+#EXTINF:-1,MTV BASE
+http://mototeamtv.tk:8000/luci/luci12345/7813
+#EXTINF:-1,MTV CLASSIC
+http://mototeamtv.tk:8000/luci/luci12345/7814
+#EXTINF:-1,MTV DANCE
+http://mototeamtv.tk:8000/luci/luci12345/5940
+#EXTINF:-1,MTV HITS
+http://mototeamtv.tk:8000/luci/luci12345/4895
+#EXTINF:-1,MTV LIVE HD
+http://mototeamtv.tk:8000/luci/luci12345/10858
+#EXTINF:-1,MTV MUSIC
+http://mototeamtv.tk:8000/luci/luci12345/7812
+#EXTINF:-1,MTV ROCK
+http://mototeamtv.tk:8000/luci/luci12345/5892
+#EXTINF:-1,VH 1
+http://mototeamtv.tk:8000/luci/luci12345/4923
+#EXTINF:-1,VH 1 CLASSIC
+http://mototeamtv.tk:8000/luci/luci12345/5392
+#EXTINF:-1,XITE MUSIC HD
+http://mototeamtv.tk:8000/luci/luci12345/4921
+#EXTINF:-1,BEATZ MUSIC HD
+http://mototeamtv.tk:8000/luci/luci12345/9707
+#EXTINF:-1,CAPITAL TV HD
+http://mototeamtv.tk:8000/luci/luci12345/12786
+#EXTINF:-1,DEUTCHES MUZIK HD
+http://mototeamtv.tk:8000/luci/luci12345/10804
+#EXTINF:-1,KRONE HIT HD
+http://mototeamtv.tk:8000/luci/luci12345/5778
+#EXTINF:-1,MEZZO HD
+http://mototeamtv.tk:8000/luci/luci12345/12175
+#EXTINF:-1,ONE BY HD
+http://mototeamtv.tk:8000/luci/luci12345/5898
+#EXTINF:-1,ONE BY 2HD
+http://mototeamtv.tk:8000/luci/luci12345/5899
+#EXTINF:-1,ONE TV HD
+http://mototeamtv.tk:8000/luci/luci12345/6083
+#EXTINF:-1,V2BEAT TV HD
+http://mototeamtv.tk:8000/luci/luci12345/13487
+#EXTINF:-1,QUIERO MUSIC HD
+http://mototeamtv.tk:8000/luci/luci12345/5803
+#EXTINF:-1,BUENA LATINA FHD
+http://mototeamtv.tk:8000/luci/luci12345/19862
+#EXTINF:-1,CITY PLAY
+http://mototeamtv.tk:8000/luci/luci12345/10687
+#EXTINF:-1,PINK & ROLL
+http://mototeamtv.tk:8000/luci/luci12345/5792
+#EXTINF:-1,PINK HITS 1
+http://mototeamtv.tk:8000/luci/luci12345/6932
+#EXTINF:-1,PINK HITS 2
+http://mototeamtv.tk:8000/luci/luci12345/5383
+#EXTINF:-1,BALKANIKA
+http://mototeamtv.tk:8000/luci/luci12345/5596
+#EXTINF:-1,DMC TV
+http://mototeamtv.tk:8000/luci/luci12345/10692
+#EXTINF:-1,CMC
+http://mototeamtv.tk:8000/luci/luci12345/5591
+#EXTINF:-1,JUGOTON
+http://mototeamtv.tk:8000/luci/luci12345/5377
+#EXTINF:-1,BRAVO MUSIC
+http://mototeamtv.tk:8000/luci/luci12345/9754
+#EXTINF:-1,DM SAT
+http://mototeamtv.tk:8000/luci/luci12345/5588
+#EXTINF:-1,OTV VALENTINO
+http://mototeamtv.tk:8000/luci/luci12345/5161
+#EXTINF:-1,BN MUSIC
+http://mototeamtv.tk:8000/luci/luci12345/5592
+#EXTINF:-1,GRAND TV
+http://mototeamtv.tk:8000/luci/luci12345/5589
+#EXTINF:-1,GRAND 2 TV
+http://mototeamtv.tk:8000/luci/luci12345/6780
+#EXTINF:-1,HAYAT FOLK
+http://mototeamtv.tk:8000/luci/luci12345/4750
+#EXTINF:-1,HAYAT MUSIC
+http://mototeamtv.tk:8000/luci/luci12345/5590
+#EXTINF:-1,IDJ TV
+http://mototeamtv.tk:8000/luci/luci12345/6001
+#EXTINF:-1,BALKAN MUSIC HD
+http://mototeamtv.tk:8000/luci/luci12345/11424
+#EXTINF:-1,NARODNA TV
+http://mototeamtv.tk:8000/luci/luci12345/7843
+#EXTINF:-1,PINK FOLK 1
+http://mototeamtv.tk:8000/luci/luci12345/5586
+#EXTINF:-1,PINK FOLK 2
+http://mototeamtv.tk:8000/luci/luci12345/5587
+#EXTINF:-1,PINK KONCERT
+http://mototeamtv.tk:8000/luci/luci12345/5793
+#EXTINF:-1,PINK MUSIC 1
+http://mototeamtv.tk:8000/luci/luci12345/5121
+#EXTINF:-1,PINK MUSIC 2
+http://mototeamtv.tk:8000/luci/luci12345/4867
+#EXTINF:-1,PINK SHOW
+http://mototeamtv.tk:8000/luci/luci12345/5874
+#EXTINF:-1,PLANETA TV
+http://mototeamtv.tk:8000/luci/luci12345/19414
+#EXTINF:-1,PRUGA TV HD
+http://mototeamtv.tk:8000/luci/luci12345/10651
+#EXTINF:-1,SEVDAH TV
+http://mototeamtv.tk:8000/luci/luci12345/4860
+#EXTINF:-1,TV SEHARA HD
+http://mototeamtv.tk:8000/luci/luci12345/5291
+#EXTINF:-1,YU PLANET TV
+http://mototeamtv.tk:8000/luci/luci12345/10806
+#EXTINF:-1,ROMA TV
+http://mototeamtv.tk:8000/luci/luci12345/6022
